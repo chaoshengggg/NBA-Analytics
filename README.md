@@ -47,7 +47,7 @@ The mean for player height and player weight was calculated for each season and 
 The line charts shows that the average player height and player weight has been declining from 1996 to 2020
 
 ---
-### Does Weight and Height Affect Player Performance )
+### Does Weight and Height Affect Player Performance 
 ![image](https://user-images.githubusercontent.com/57311200/119350109-83c75e80-bcd1-11eb-8f4c-e4604f26bfe3.png)
 
 Next, a correlation matrix was conducted to find out whether a player's weight and height affects their performance
