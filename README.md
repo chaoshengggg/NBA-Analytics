@@ -8,8 +8,10 @@
 ## Background & Project Overview
 I have always loved the game of basketball and has been a fan of it ever since I was young. I wanted to explore more on this domain and look for interesting findings. Thus, I have decided to work on this project.
 
-
-
+In this project, there are a few things that were looked into :
+  * Weight and Height Analysis
+  * Visualizing NBA Players Across Different Countries
+  * Exploratory on All Time Scoring / Assists / Rebound Players
 
 
 
