@@ -58,3 +58,20 @@ From the correlation matrix above we notice that :
  * **Assist**
    * **Player Height** -> **Correlation** : -0.46
    * **Player Weight** -> **Correlation** : -0.40
+   
+The findings above suggests that **rebound** has a positive moderate relationship with both player height and weight WHILE **assist** has a negative moderate relationship with both player height and weight
+
+Scatterplots below were also graphed to visually see how the variables interact with each other
+![image](https://user-images.githubusercontent.com/57311200/119352338-2254bf00-bcd4-11eb-95d1-136735bb3b71.png)
+
+---
+### Visualizing NBA Players Across Different Countries
+![image](https://user-images.githubusercontent.com/57311200/119353022-f554dc00-bcd4-11eb-88b0-6e1ed480a807.png)
+![image](https://user-images.githubusercontent.com/57311200/119352909-d22a2c80-bcd4-11eb-9e69-8381cc70cc96.png)
+![image](https://user-images.githubusercontent.com/57311200/119352950-dc4c2b00-bcd4-11eb-8c83-f6b8cb2957d9.png)
+
+---
+### Average NBA Player's Age Throughout the Years
+![image](https://user-images.githubusercontent.com/57311200/119353270-449b0c80-bcd5-11eb-8504-2b446f2b5113.png)
+
+From the line chart above, it is obvious that the average nba player's age has dropped from 1996 to 2020
