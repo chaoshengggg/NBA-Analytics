@@ -4,7 +4,9 @@
 * [Project Overview](#project-overview)
 * [Resources Used](#resources-used)
 * [Findings](#findings)
-  * [ Relationship between NBA Player's Weight and Height](#relationship-between-heightandweight)
+  * [Relationship between NBA Player's Weight and Height](#relationship-between-nba-player's-weight-and-height)
+  * [Weight and Height Overtime](#weight-and-height-overtime)
+  * [Does Weight and Height Affect Player Performance](#does-weight-and-height-affect-player-performance)
 
 ## Project Overview
 I have always loved the game of basketball and has been a fan of it ever since I was young. I wanted to explore more on this domain and look for interesting findings. Thus, I have decided to work on this project.
@@ -23,7 +25,7 @@ In this project, there are a few things that were looked into :
 
 
 ## Findings
-###  Relationship between NBA Player's Weight and Height
+### Relationship between NBA Player's Weight and Height
 ![image](https://user-images.githubusercontent.com/57311200/119349103-54642200-bcd0-11eb-8a79-db9875a61cad.png)
 
 From the Scatterplot above, notice that as weight increases so does height. Vice versa, as height increases, so does weight
@@ -43,7 +45,7 @@ The mean for player height and player weight was calculated for each season and 
 The line charts shows that the average player height and player weight has been declining from 1996 to 2020
 
 ---
-### Does Weight and Height Affect Player Performance ?
+### Does Weight and Height Affect Player Performance )
 ![image](https://user-images.githubusercontent.com/57311200/119350109-83c75e80-bcd1-11eb-8f4c-e4604f26bfe3.png)
 
 Next, a correlation matrix was conducted to find out whether a player's weight and height affects their performance
