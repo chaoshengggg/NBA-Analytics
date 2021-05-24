@@ -2,3 +2,11 @@
 
 ## Table of Contents
 * Background
+* [Findings](#findings)
+
+## Project Overview
+
+## Resources Used
+
+
+## Findings
