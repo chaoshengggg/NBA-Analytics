@@ -1,12 +1,12 @@
 # NBA Analytics : An Exploratory Data Analysis on the NBA data
 
 ## Table of Contents
-* [Background & Project Overview](#background&project-overview)
+* [Project Overview](Project-Overview)
 * [Resources Used](#resources-used)
 * [Findings](#findings)
   * [ Relationship between NBA Player's Weight and Height](#relationship-between-heightandweight)
 
-## Background & Project Overview
+## Project Overview
 I have always loved the game of basketball and has been a fan of it ever since I was young. I wanted to explore more on this domain and look for interesting findings. Thus, I have decided to work on this project.
 
 In this project, there are a few things that were looked into :
@@ -24,4 +24,37 @@ In this project, there are a few things that were looked into :
 
 
 ## Findings
-####  Relationship between NBA Player's Weight and Height
+###  Relationship between NBA Player's Weight and Height
+![image](https://user-images.githubusercontent.com/57311200/119349103-54642200-bcd0-11eb-8a79-db9875a61cad.png)
+
+From the Scatterplot above, notice that as weight increases so does height. Vice versa, as height increases, so does weight
+
+Since we already know from the graph above, there's a positive relationship between nba player's weight and player height. Correlation was calculated to find out how strong the relationship is between these two variables
+
+**The finding of the correlation score is** : 0.83
+
+The correlation score of **0.83** suggests that there is a strong positive relationship between nba player's height and player weight
+
+---
+### Weight and Height Overtime
+![image](https://user-images.githubusercontent.com/57311200/119349035-38608080-bcd0-11eb-92e5-f191946c4483.png)
+
+The mean for player height and player weight was calculated for each season and plotted using line charts
+
+The line charts shows that the average player height and player weight has been declining from 1996 to 2020
+
+---
+### Does Weight and Height Affect Player Performance ?
+![image](https://user-images.githubusercontent.com/57311200/119350109-83c75e80-bcd1-11eb-8f4c-e4604f26bfe3.png)
+
+Next, a correlation matrix was conducted to find out whether a player's weight and height affects their performance
+
+The targeted variables were : pts, reb, ast, net_rating
+
+From the correlation matrix above we notice that :
+ * **Rebound**
+   * **Player Height** -> **Correlation** : 0.42
+   * **Player Weight** -> **Correlation** : 0.44
+ * **Assist**
+   * **Player Height** -> **Correlation** : -0.46
+   * **Player Weight** -> **Correlation** : -0.40
