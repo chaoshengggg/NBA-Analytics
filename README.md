@@ -17,9 +17,8 @@ In this project, there are a few things that were looked into :
 
 
 ## Resources Used
-Python Version: 3.8.5
-
-Packages: pandas, matplotlib, numpy, seaborn, plotly
+**Python Version:** 3.8.5
+**Packages:** pandas, matplotlib, numpy, seaborn, plotly
 
 
 
