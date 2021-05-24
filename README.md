@@ -1,7 +1,7 @@
 # NBA Analytics : An Exploratory Data Analysis on the NBA data
 
 ## Table of Contents
-* [Project Overview](Project-Overview)
+* [Project Overview](project-overview)
 * [Resources Used](#resources-used)
 * [Findings](#findings)
   * [ Relationship between NBA Player's Weight and Height](#relationship-between-heightandweight)
@@ -12,7 +12,6 @@ I have always loved the game of basketball and has been a fan of it ever since I
 In this project, there are a few things that were looked into :
   * Weight and Height Analysis
   * Visualizing NBA Players Across Different Countries
-  * Exploratory on All Time Scoring / Assists / Rebound Players
   * Average NBA Players Age
 
 ## Resources Used
