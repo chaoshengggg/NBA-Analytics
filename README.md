@@ -6,7 +6,7 @@
 * [Findings](#findings)
   * [Relationship between NBA Player's Weight and Height](#relationship-between-nba-player-weight-and-height)
   * [Weight and Height Overtime](#weight-and-height-overtime)
-  * [Does Weight and Height Affect Player Performance(#does-weight-and-height-affect-player-performance)
+  * [Does Weight and Height Affect Player Performance](#does-weight-and-height-affect-player-performance)
   * [Visualizing NBA Players Across Different Countries](#visualizing-nba-players-across-different-countries)
   * [Average NBA Player's Age Throughout the Years](#average-nba-player-age-throughout-the-years)
 
