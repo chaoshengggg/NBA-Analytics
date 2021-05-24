@@ -34,7 +34,7 @@ From the Scatterplot above, notice that as weight increases so does height. Vice
 
 Since we already know from the graph above, there's a positive relationship between nba player's weight and player height. Correlation was calculated to find out how strong the relationship is between these two variables
 
-**The finding of the correlation score is** : 0.83
+**The findings of the correlation score is** : 0.83
 
 The correlation score of **0.83** suggests that there is a strong positive relationship between nba player's height and player weight
 
