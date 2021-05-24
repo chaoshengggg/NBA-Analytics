@@ -2,5 +2,4 @@
 
 ## Table of Contents
 
-
-### ..* Background
+..* Background
