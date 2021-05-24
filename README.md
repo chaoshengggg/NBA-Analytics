@@ -24,4 +24,4 @@ In this project, there are a few things that were looked into :
 
 
 ## Findings
-###  Relationship between NBA Player's Weight and Height
+####  Relationship between NBA Player's Weight and Height
