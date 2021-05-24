@@ -7,6 +7,8 @@
   * [Relationship between NBA Player's Weight and Height](#relationship-between-nba-player's-weight-and-height)
   * [Weight and Height Overtime](#weight-and-height-overtime)
   * [Does Weight and Height Affect Player Performance](#does-weight-and-height-affect-player-performance)
+  * [Visualizing NBA Players Across Different Countries](#visualizing-nba-players-across-different-countries)
+  * [Average NBA Player's Age Throughout the Years](#average-nba-player's-age-throughout-the-years)
 
 ## Project Overview
 I have always loved the game of basketball and has been a fan of it ever since I was young. I wanted to explore more on this domain and look for interesting findings. Thus, I have decided to work on this project.
