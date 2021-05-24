@@ -12,10 +12,14 @@ In this project, there are a few things that were looked into :
   * Weight and Height Analysis
   * Visualizing NBA Players Across Different Countries
   * Exploratory on All Time Scoring / Assists / Rebound Players
+  * Average NBA Players Age
 
 
 
 ## Resources Used
+Python Version: 3.8.5
+Packages: pandas, matplotlib, numpy, seaborn, plotly
+
 
 
 
