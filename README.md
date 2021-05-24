@@ -4,11 +4,11 @@
 * [Project Overview](#project-overview)
 * [Resources Used](#resources-used)
 * [Findings](#findings)
-  * [Relationship between NBA Player's Weight and Height](#relationship-between-nba-player's-weight-and-height)
+  * [Relationship between NBA Player's Weight and Height](#relationship-between-nba-player-weight-and-height)
   * [Weight and Height Overtime](#weight-and-height-overtime)
   * [Does Weight and Height Affect Player Performance](#does-weight-and-height-affect-player-performance)
   * [Visualizing NBA Players Across Different Countries](#visualizing-nba-players-across-different-countries)
-  * [Average NBA Player's Age Throughout the Years](#average-nba-player's-age-throughout-the-years)
+  * [Average NBA Player's Age Throughout the Years](#average-nba-player-age-throughout-the-years)
 
 ## Project Overview
 I have always loved the game of basketball and has been a fan of it ever since I was young. I wanted to explore more on this domain and look for interesting findings. Thus, I have decided to work on this project.
@@ -27,7 +27,7 @@ In this project, there are a few things that were looked into :
 
 
 ## Findings
-### Relationship between NBA Player's Weight and Height
+### Relationship between NBA Player Weight and Height
 ![image](https://user-images.githubusercontent.com/57311200/119349103-54642200-bcd0-11eb-8a79-db9875a61cad.png)
 
 From the Scatterplot above, notice that as weight increases so does height. Vice versa, as height increases, so does weight
@@ -74,7 +74,7 @@ Scatterplots below were also graphed to visually see how the variables interact 
 ![image](https://user-images.githubusercontent.com/57311200/119352950-dc4c2b00-bcd4-11eb-8c83-f6b8cb2957d9.png)
 
 ---
-### Average NBA Player's Age Throughout the Years
+### Average NBA Player Age Throughout the Years
 ![image](https://user-images.githubusercontent.com/57311200/119353270-449b0c80-bcd5-11eb-8504-2b446f2b5113.png)
 
 From the line chart above, it is obvious that the average nba player's age has dropped from 1996 to 2020
